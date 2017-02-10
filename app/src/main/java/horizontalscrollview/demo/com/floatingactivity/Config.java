@@ -1,7 +1,7 @@
 package horizontalscrollview.demo.com.floatingactivity;
 
 /**
- * Created by echessa on 1/13/17.
+ * Created by abhijit on 1/13/17.
  */
 
 public final class Config {
